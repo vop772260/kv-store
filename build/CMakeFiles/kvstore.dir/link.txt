@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kvstore.dir/src/main.cpp.o CMakeFiles/kvstore.dir/src/KeyValueStore.cpp.o -o kvstore 
